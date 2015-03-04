@@ -1,6 +1,6 @@
 # The main Hola driver
 class Hola_Wazynski
-	
+
 	# Say hi to the world!
 	#
 	# Example:
