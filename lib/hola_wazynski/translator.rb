@@ -6,7 +6,7 @@ class Hola_Wazynski::Translator
 	def hi
 		case @language
 			when "spanish"
-				"hola mndo"
+				"hola mundo"
 			else
 				"hello world"
 		end
